@@ -11,7 +11,10 @@
     "newConversation": "新对话",
     "convInformation": "对话已保存到浏览器的 IndexedDB",
     "deleteConfirm": "您确定要删除此对话吗？",
-    "downloadBtn": "下载",
+    "deletesConfirm": "您确定要清除所有对话吗？",
+    "loadConversationBtn": "加载对话 JSON 文件",
+    "saveConversationBtn": "保存对话 JSON 文件",
+    "resetConversationBtn": "全部清除",
     "deleteBtn": "删除",
     "conversationBtn": "对话",
     "closeBtn": "关闭"
@@ -52,6 +55,7 @@
     "savePresetBtn": "保存预设 JSON 文件",
     "presetLabel": "预设",
     "tooltipPresets": "预设",
+    "presetsPlaceholder": "选择预设...",
     "sections": {
       "General": "一般",
       "Samplers": "采样器",

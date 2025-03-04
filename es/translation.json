@@ -11,7 +11,10 @@
     "newConversation": "Nueva conversación",
     "convInformation": "Las conversaciones se guardan en la base de datos indexada del navegador",
     "deleteConfirm": "¿Está seguro de eliminar esta conversación?",
-    "downloadBtn": "Descargar",
+    "deletesConfirm": "¿Está seguro de borrar todas las conversaciones?",
+    "loadConversationBtn": "Cargar archivo JSON de conversaciones",
+    "saveConversationBtn": "Guardar archivo JSON de conversaciones",
+    "resetConversationBtn": "Borrar todo",
     "deleteBtn": "Eliminar",
     "conversationBtn": "Conversaciones",
     "closeBtn": "Cerca"
@@ -52,6 +55,7 @@
     "savePresetBtn": "Guardar archivo JSON de ajustes preestablecidos",
     "presetLabel": "Ajustes preestablecidos",
     "tooltipPresets": "Ajustes preestablecidos",
+    "presetsPlaceholder": "Elija un ajuste preestablecido...",
     "sections": {
       "General": "General",
       "Samplers": "Ampliadores de muestras",

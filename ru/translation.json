@@ -11,7 +11,10 @@
     "newConversation": "Новый разговор",
     "convInformation": "Беседы сохраняются в IndexedDB браузера",
     "deleteConfirm": "Вы уверены, что хотите удалить этот разговор?",
-    "downloadBtn": "Загрузить",
+    "deletesConfirm": "Вы уверены, что хотите очистить все разговоры?",
+    "loadConversationBtn": "Загрузить файл JSON разговоров",
+    "saveConversationBtn": "Сохранить файл JSON разговоров",
+    "resetConversationBtn": "Очистить все",
     "deleteBtn": "Удалить",
     "conversationBtn": "Беседы",
     "closeBtn": "Закрывать"
@@ -52,6 +55,7 @@
     "savePresetBtn": "Сохранить файл JSON предустановок",
     "presetLabel": "Предустановки",
     "tooltipPresets": "Предустановки",
+    "presetsPlaceholder": "Выберите предустановки...",
     "sections": {
       "General": "Общие",
       "Samplers": "Сэмплеры",

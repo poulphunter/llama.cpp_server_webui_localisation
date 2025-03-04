@@ -11,7 +11,10 @@
     "newConversation": "New conversation",
     "convInformation": "Conversations are saved to browser's IndexedDB",
     "deleteConfirm": "Are you sure to delete this conversation?",
-    "downloadBtn": "Download",
+    "deletesConfirm": "Are you sure to clear all conversations?",
+    "loadConversationBtn": "Load Conversations JSON file",
+    "saveConversationBtn": "Save Conversations JSON file",
+    "resetConversationBtn": "Clear all",
     "deleteBtn": "Delete",
     "conversationBtn": "Conversations",
     "closeBtn": "Close"
@@ -52,6 +55,7 @@
     "savePresetBtn": "Save Presets JSON file",
     "presetLabel": "Presets",
     "tooltipPresets": "Presets",
+    "presetsPlaceholder": "Chose a presets...",
     "sections": {
       "General": "General",
       "Samplers": "Samplers",

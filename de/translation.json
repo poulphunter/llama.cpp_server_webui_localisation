@@ -11,7 +11,10 @@
     "newConversation": "Neue Konversation",
     "convInformation": "Konversationen werden in der IndexedDB des Browsers gespeichert",
     "deleteConfirm": "Möchten Sie diese Konversation wirklich löschen?",
-    "downloadBtn": "Herunterladen",
+    "deletesConfirm": "Möchten Sie wirklich alle Konversationen löschen?",
+    "loadConversationBtn": "JSON-Datei für Konversationen laden",
+    "saveConversationBtn": "JSON-Datei für Konversationen speichern",
+    "resetConversationBtn": "Alle löschen",
     "deleteBtn": "Löschen",
     "conversationBtn": "Konversationen",
     "closeBtn": "Schließen"
@@ -52,6 +55,7 @@
     "savePresetBtn": "JSON-Datei mit Voreinstellungen speichern",
     "presetLabel": "Voreinstellungen",
     "tooltipPresets": "Voreinstellungen",
+    "presetsPlaceholder": "Wählen Sie eine Voreinstellung ...",
     "sections": {
       "General": "Allgemein",
       "Samplers": "Sampler",
