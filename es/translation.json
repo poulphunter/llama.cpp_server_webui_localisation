@@ -53,6 +53,8 @@
     "saveBtn": "Guardar",
     "loadPresetBtn": "Cargar archivo JSON de ajustes preestablecidos",
     "savePresetBtn": "Guardar archivo JSON de ajustes preestablecidos",
+    "deletePresetBtn": "Eliminar este ajuste preestablecido",
+    "deletePresetBtnConfirm": "¿Estás seguro que deseas eliminar este ajuste preestablecido?",
     "presetLabel": "Ajustes preestablecidos",
     "tooltipPresets": "Ajustes preestablecidos",
     "presetsPlaceholder": "Elija un ajuste preestablecido...",

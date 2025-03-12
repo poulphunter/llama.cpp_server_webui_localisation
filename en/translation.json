@@ -53,6 +53,8 @@
     "saveBtn": "Save",
     "loadPresetBtn": "Load Presets JSON file",
     "savePresetBtn": "Save Presets JSON file",
+    "deletePresetBtn": "Delete this preset",
+    "deletePresetBtnConfirm": "Are you sure you want to delete this preset?",
     "presetLabel": "Presets",
     "tooltipPresets": "Presets",
     "presetsPlaceholder": "Chose a presets...",

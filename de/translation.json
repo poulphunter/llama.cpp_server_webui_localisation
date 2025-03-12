@@ -53,6 +53,8 @@
     "saveBtn": "Speichern",
     "loadPresetBtn": "JSON-Datei mit Voreinstellungen laden",
     "savePresetBtn": "JSON-Datei mit Voreinstellungen speichern",
+    "deletePresetBtn": "Diese Vorgabe löschen",
+    "deletePresetBtnConfirm": "Möchten Sie diese Voreinstellung wirklich löschen?",
     "presetLabel": "Voreinstellungen",
     "tooltipPresets": "Voreinstellungen",
     "presetsPlaceholder": "Wählen Sie eine Voreinstellung ...",

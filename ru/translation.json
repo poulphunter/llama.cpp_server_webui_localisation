@@ -53,6 +53,8 @@
     "saveBtn": "Сохранить",
     "loadPresetBtn": "Загрузить файл JSON предустановок",
     "savePresetBtn": "Сохранить файл JSON предустановок",
+    "deletePresetBtn": "Удалить эту предустановку",
+    "deletePresetBtnConfirm": "Вы уверены, что хотите удалить эту предустановку?",
     "presetLabel": "Предустановки",
     "tooltipPresets": "Предустановки",
     "presetsPlaceholder": "Выберите предустановки...",

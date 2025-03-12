@@ -53,6 +53,8 @@
     "saveBtn": "Salva",
     "loadPresetBtn": "Carica file JSON preset",
     "savePresetBtn": "Salva file JSON preset",
+    "deletePresetBtn": "Elimina questa preimpostazione",
+    "deletePresetBtnConfirm": "Sei sicuro di voler eliminare questa preimpostazione?",
     "presetLabel": "Preset",
     "tooltipPresets": "Preset",
     "presetsPlaceholder": "Scegli un preset...",

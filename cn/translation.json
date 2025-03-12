@@ -53,6 +53,8 @@
     "saveBtn": "保存",
     "loadPresetBtn": "加载预设 JSON 文件",
     "savePresetBtn": "保存预设 JSON 文件",
+    "deletePresetBtn": "删除此预设",
+    "deletePresetBtnConfirm": "您确定要删除该预设吗？",
     "presetLabel": "预设",
     "tooltipPresets": "预设",
     "presetsPlaceholder": "选择预设...",
